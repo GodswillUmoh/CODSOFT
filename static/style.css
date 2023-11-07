@@ -1,0 +1,61 @@
+
+h1 {
+  text-align: center;
+  color: #2c5a0c;
+}
+.button1 {background-color: #ebebf9; color: black;
+          font-size: 20px;
+          padding: 14px 40px;
+          border-color: #565454;
+          border-width: 10px;
+          border-radius: 5%;
+          
+        }
+
+.button2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button3 {
+  background-color: #e66fde; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+
+input {
+  width: 100%;
+  margin: 8px 0;
+  box-sizing: border-box;
+  padding: 12px 20px;
+}
+  
